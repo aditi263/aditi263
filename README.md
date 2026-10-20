@@ -14,12 +14,17 @@ My interests lie at the intersection of **Artificial Intelligence, Human-Compute
 - Information Seeking Behavior
 - Data Analytics and Visualization
 
-### 💻 Technical Skills
-**Programming & Analytics:** Python, SQL, SAS, Pandas
+<h2 align="center">🛠️ Technical Skills</h2>
 
-**Visualization:** Power BI, Tableau, Excel
-
-**Tools:** GitHub, SQL Server, Microsoft 365
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Research-6D45B5?style=for-the-badge" />
+</p>
 
 ### 📊 Featured Projects
 - **Hospital Operations Intelligence Platform** — Healthcare data analytics using Python, SQL, and Power BI.
