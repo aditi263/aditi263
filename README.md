@@ -26,10 +26,32 @@ My interests lie at the intersection of **Artificial Intelligence, Human-Compute
   <img src="https://img.shields.io/badge/AI_Research-6D45B5?style=for-the-badge" />
 </p>
 
-### 📊 Featured Projects
-- **Hospital Operations Intelligence Platform** — Healthcare data analytics using Python, SQL, and Power BI.
-- **Annex Sales Data Analysis** — Exploratory data analysis using Python and Pandas.
-- **AI Trust & Verification Platform** — Planned project exploring the evaluation of AI-generated academic information.
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Operations Intelligence
+Healthcare analytics and operational reporting.
+
+**Tech:** Python · SQL · Power BI
+
+[Explore Project](https://github.com/aditi263)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Sales Data Analysis
+Exploratory analysis and business insights.
+
+**Tech:** Python · Pandas
+
+[Explore Project](https://github.com/aditi263)
+
+</td>
+</tr>
+</table>
 
 ### 🎯 Current Focus
 Developing practical analytics projects, strengthening my research methodology skills, and exploring doctoral research opportunities in Human-Centered Computing.
