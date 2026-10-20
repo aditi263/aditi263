@@ -1,4 +1,4 @@
-![Aditi GitHub Banner](banner.png)
+![Aditi GitHub Banner](Aditi%27s%20Data-Driven%20Impact%20Banner.png)
 # Hi, I'm Aditi 👋
 
 ### Data Analytics | Human-Centered AI | Business Intelligence
