@@ -1,3 +1,4 @@
+![Aditi GitHub Banner](banner.png)
 # Hi, I'm Aditi 👋
 
 ### Data Analytics | Human-Centered AI | Business Intelligence
